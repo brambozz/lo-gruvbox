@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ooo:color-table xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" xmlns:ooo="http://openoffice.org/2004/office">
+<!-- Background colors -->
+ <draw:color draw:name="bg" draw:color="#282828"/>
+ <draw:color draw:name="bg0_h" draw:color="#1d2021"/>
+ <draw:color draw:name="bg0" draw:color="#282828"/>
+ <draw:color draw:name="bg0_s" draw:color="#32302f"/>
+ <draw:color draw:name="bg1" draw:color="#3c3836"/>
+ <draw:color draw:name="bg2" draw:color="#504945"/>
+ <draw:color draw:name="bg3" draw:color="#665c54"/>
+ <draw:color draw:name="bg4" draw:color="#7c6f64"/>
+
+<!-- Foreground colors -->
+ <draw:color draw:name="fg" draw:color="#ebdbb2"/>
+ <draw:color draw:name="fg0" draw:color="#fbf1c7"/>
+ <draw:color draw:name="fg1" draw:color="#ebdbb2"/>
+ <draw:color draw:name="fg2" draw:color="#d5c4a1"/>
+ <draw:color draw:name="fg3" draw:color="#bdae93"/>
+ <draw:color draw:name="fg4" draw:color="#a89984"/>
+
+<!-- Gray colors -->
+ <draw:color draw:name="gray" draw:color="#928374"/>
+ <draw:color draw:name="bright gray" draw:color="#a89984"/>
+
+<!-- Standard colors -->
+ <draw:color draw:name="red" draw:color="#cc241d"/>
+ <draw:color draw:name="green" draw:color="#98971a"/>
+ <draw:color draw:name="yellow" draw:color="#d79921"/>
+ <draw:color draw:name="blue" draw:color="#458588"/>
+ <draw:color draw:name="purple" draw:color="#b16286"/>
+ <draw:color draw:name="aqua" draw:color="#689d6a"/>
+ <draw:color draw:name="orange" draw:color="#d65d0e"/>
+
+<!-- Bright colors -->
+ <draw:color draw:name="bright red" draw:color="#fb4934"/>
+ <draw:color draw:name="bright green" draw:color="#b8bb26"/>
+ <draw:color draw:name="bright yellow" draw:color="#fabd2f"/>
+ <draw:color draw:name="bright blue" draw:color="#83a598"/>
+ <draw:color draw:name="bright purple" draw:color="#d3869b"/>
+ <draw:color draw:name="bright aqua" draw:color="#8ec07c"/>
+ <draw:color draw:name="bright orange" draw:color="#fe8019"/>
+
+</ooo:color-table>
